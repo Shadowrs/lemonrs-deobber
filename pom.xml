@@ -1,0 +1,14 @@
+<project>
+    <modelVersion>4.0.0</modelVersion>
+    <groupId>net.lemonrs.lemonpicker</groupId>
+    <artifactId>LemonPicker</artifactId>
+    <version>0</version>
+
+    <dependencies>
+        <dependency>
+            <groupId>org.ow2.asm</groupId>
+            <artifactId>asm-debug-all</artifactId>
+            <version>5.0.3</version>
+        </dependency>
+    </dependencies>
+</project>
